@@ -1,34 +1,36 @@
-body{
-    min-height: 3000px;
+body {
+  min-height: 3000px;
 }
-.jumbotron{
-    padding-top: 5rem ;
-    background-color: rgb(216, 179, 130);
-}
-
-#projects{
-    background-color: rgb(216, 179, 130); 
-    
-}
-section{
-    padding-top: 5rem;
+.jumbotron {
+  padding-top: 5rem;
+  background-color: rgb(158, 108, 108);
 }
 
-.images{
-    border-radius: 100px;
-    height: 20px;
-    width: 20px;
-    margin: 10px;
-    margin-top: -10px;
+#projects {
+  background-color: rgb(158, 108, 108);
 }
-h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-footer{
-    margin-top: -100px;
+section {
+  padding-top: 5rem;
 }
 
-
+.images {
+  border-radius: 100px;
+  height: 20px;
+  width: 20px;
+  margin: 10px;
+  margin-top: -10px;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer {
+  /* margin-top: -60px; */
+  font-size: 15px;
+  color: black;
+}
+.n {
+  display: inline-block;
+}
 
 /* .container, .card {
     position: relative;
